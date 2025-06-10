@@ -281,3 +281,5 @@ while run:
         pg.display.flip()
     pg.time.delay(60)
     pg.display.update()
+    #starr
+print('Yo wassup')
